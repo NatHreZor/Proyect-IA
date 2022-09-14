@@ -8,6 +8,4 @@ Objetivo: Buscar planetas potencialmente habitables por medio de los datos regis
 
 Dataset: https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results
 
-Link del Video de Youtube:
-
-https://www.youtube.com/watch?v=h4cwDap3JY0
+Link del Video de Youtube: https://www.youtube.com/watch?v=h4cwDap3JY0
