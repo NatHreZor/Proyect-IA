@@ -1,4 +1,4 @@
-# Cirobot y el ferXXo en búsqueda de exoplanetas habitables
+# Cirobot y el FerXXo en búsqueda de exoplanetas habitables
 
 ![Banner](https://user-images.githubusercontent.com/98864594/190227154-5cf2b7a6-60a1-46a9-a70c-2a7ae7c83dff.jpeg)
 
